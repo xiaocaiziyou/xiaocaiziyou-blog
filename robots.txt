@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiaocaiziyou.top/sitemap.xml
+Sitemap: https://xiaocaiziyou.top/baidusitemap.xml
