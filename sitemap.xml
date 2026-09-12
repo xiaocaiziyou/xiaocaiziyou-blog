@@ -40,29 +40,29 @@
 
   <url>
     <loc>https://xiaocaiziyou.top/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://xiaocaiziyou.top/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaocaiziyou.top/tags/%E8%83%B6%E7%89%87/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xiaocaiziyou.top/tags/%E6%91%84%E5%BD%B1/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaocaiziyou.top/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
